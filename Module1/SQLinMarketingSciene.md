@@ -1,21 +1,56 @@
-# TEST
+# SQL in Marketing Science
 
-![Slide 1](../images/DL_SQL_M1_01.png)
+<p align="center">
+  <img src="../images/DL_SQL_M1_01.png" width="800"/>
+</p>
 
-![Slide 2](../images/DL_SQL_M1_02.png)
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_02.png" width="800"/>
+</p>
 
-![Slide 3](../images/DL_SQL_M1_03.png)
+---
 
-![Slide 4](../images/DL_SQL_M1_04.png)
+<p align="center">
+  <img src="../images/DL_SQL_M1_03.png" width="800"/>
+</p>
 
-![Slide 5](../images/DL_SQL_M1_05.png)
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_04.png" width="800"/>
+</p>
 
-![Slide 6](../images/DL_SQL_M1_06.png)
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_05.png" width="800"/>
+</p>
 
-![Slide 7](../images/DL_SQL_M1_07.png)
+---
 
-![Slide 8](../images/DL_SQL_M1_08.png)
+<p align="center">
+  <img src="../images/DL_SQL_M1_06.png" width="800"/>
+</p>
 
-![Slide 9](../images/DL_SQL_M1_09.png)
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_07.png" width="800"/>
+</p>
 
-![Slide 10](../images/DL_SQL_M1_10.png)
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_08.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="../images/DL_SQL_M1_09.png" width="800"/>
+</p>
+
+---
+<p align="center">
+  <img src="../images/DL_SQL_M1_10.png" width="800"/>
+</p>
+
+---
+
